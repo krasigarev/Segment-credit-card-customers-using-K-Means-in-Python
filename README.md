@@ -1,3 +1,3 @@
 # Segment credit card customers using KMeans in Python
 
-![Clusters](
+![Clusters](Clusters per Columns.png)
