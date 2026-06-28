@@ -7,5 +7,3 @@ It is used to uncover hidden patterns when the goal is to organize data based on
 
 - Helps identify natural groupings in unlabeled datasets
 - Works by grouping points based on distance to cluster centers
-
-!(pic/Clusters_per_Columns.png)
