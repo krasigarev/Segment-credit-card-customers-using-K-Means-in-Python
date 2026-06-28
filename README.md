@@ -1,3 +1,9 @@
 # Segment credit card customers using KMeans in Python
 
-![Clusters](Clusters per Columns.png)
+
+K-Means Clustering groups similar data points into clusters without needing labeled data. 
+
+It is used to uncover hidden patterns when the goal is to organize data based on similarity.
+
+- Helps identify natural groupings in unlabeled datasets
+- Works by grouping points based on distance to cluster centers
