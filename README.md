@@ -1,1 +1,1 @@
-# Segment-credit-card-customers-using-K-Means-in-Python
+# Segment credit card customers using KMeans in Python
